@@ -1,4 +1,4 @@
-#Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+#Problem: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 
 def is_unique(example):
     chars ={}
@@ -10,6 +10,9 @@ def is_unique(example):
         else:
             chars[ch]=1
     return True
+#Time complexity: takes O(1) for best case if the string is empty or the first two characters are the same, takes O(n) for worst case.
 
-result = is_unique("Rr")        
+#Testing:
+result = is_unique("Problematic")        
 print(result)
+
