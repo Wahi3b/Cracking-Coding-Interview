@@ -1,6 +1,7 @@
 # Cracking the Coding Interview - Solutions
 
-This repository contains my solutions to coding problems from the book **Cracking the Coding Interview** by Gayle Laakmann McDowell. The goal is to practice algorithms, data structures, and problem-solving techniques to prepare for technical interviews.
+This repository contains my solutions to coding problems from the book **Cracking the Coding Interview** by Gayle Laakmann McDowell, and from CoderByte.com.
+The goal is to practice algorithms, data structures, and problem-solving techniques to prepare for technical interviews.
 
 ## 📚 About the Book
 
